@@ -89,11 +89,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Got it from: [contributors] (https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md)
 
-### Adding Formula
+## Adding Formula
 Go first to the following website
 https://www.codecogs.com/latex/eqneditor.php
 then write your formula, then right-click on the formula to copy the image-address as shown below
-## Deployment
-![equation](https://latex.codecogs.com/gif.latex?%5Cvec%7BF%7D%5Cvec%7BF%7D_g%3D-F%5Cfrac%7Bm_1%20m_2%7D%7Br%5E2%7D%20%5Cvec%7Be%7D_r%3Dm%20%5Cfrac%7Bd%20%5Cvec%7Bv%7D%7D%7Bdt%7D%20&plus;%20%5Cvec%7Bv%7D%5Cfrac%7Bdm%7D%7Bdt%7D)
-
-
+### Deployment
+<a href="https://www.codecogs.com/eqnedit.php?latex=e=m&space;c^2&space;\vec{F}\vec{F}_g=-F\frac{m_1&space;m_2}{r^2}&space;\vec{e}_r=m&space;\frac{d&space;\vec{v}}{dt}&space;&plus;&space;\vec{v}\frac{dm}{dt}" target="_blank"><img src="https://latex.codecogs.com/png.latex?e=m&space;c^2&space;\vec{F}\vec{F}_g=-F\frac{m_1&space;m_2}{r^2}&space;\vec{e}_r=m&space;\frac{d&space;\vec{v}}{dt}&space;&plus;&space;\vec{v}\frac{dm}{dt}" title="e=m c^2 \vec{F}\vec{F}_g=-F\frac{m_1 m_2}{r^2} \vec{e}_r=m \frac{d \vec{v}}{dt} + \vec{v}\frac{dm}{dt}" /></a>
