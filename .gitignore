@@ -1,0 +1,6 @@
+# Here will add some files that we will ingore in our github
+log.txt
+# You can add a directory that you dont want to add to your git
+/dir2
+# You can do a specific file type for your project
+*.txt
