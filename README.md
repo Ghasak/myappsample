@@ -94,7 +94,6 @@ Go first to the following website
 https://www.codecogs.com/latex/eqneditor.php
 then write your formula, then right-click on the formula to copy the image-address as shown below
 ## Deployment
-![equation](http://latex.codecogs.com/gif.latex?O_t%3D%5Ctext%20%7B%20Onset%20event%20at%20time%20bin%20%7D%20t)
-![equation](http://latex.codecogs.com/gif.latex?s%3D%5Ctext%20%7B%20sensor%20reading%20%7D)
-![equation](http://latex.codecogs.com/gif.latex?P%28s%20%7C%20O_t%20%29%3D%5Ctext%20%7B%20Probability%20of%20a%20sensor%20reading%20value%20when%20sleep%20onset%20is%20observed%20at%20a%20time%20bin%20%7D%20t)
+![equation](https://latex.codecogs.com/gif.latex?%5Cvec%7BF%7D%5Cvec%7BF%7D_g%3D-F%5Cfrac%7Bm_1%20m_2%7D%7Br%5E2%7D%20%5Cvec%7Be%7D_r%3Dm%20%5Cfrac%7Bd%20%5Cvec%7Bv%7D%7D%7Bdt%7D%20&plus;%20%5Cvec%7Bv%7D%5Cfrac%7Bdm%7D%7Bdt%7D)
+
 
