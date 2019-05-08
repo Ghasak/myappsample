@@ -94,4 +94,4 @@ Go first to the following website
 https://www.codecogs.com/latex/eqneditor.php
 then write your formula, then right-click on the formula to copy the image-address as shown below
 ### Deployment
-![equation](https://latex.codecogs.com/png.latex?e%3Dm%20c%5E2%20%5Cvec%7BF%7D%5Cvec%7BF%7D_g%3D-F%5Cfrac%7Bm_1%20m_2%7D%7Br%5E2%7D%20%5Cvec%7Be%7D_r%3Dm%20%5Cfrac%7Bd%20%5Cvec%7Bv%7D%7D%7Bdt%7D%20&plus;%20%5Cvec%7Bv%7D%5Cfrac%7Bdm%7D%7Bdt%7D)
+![](https://latex.codecogs.com/svg.latex?y%3Dx%5E2)
