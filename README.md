@@ -93,4 +93,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 Go first to the following website
 https://www.codecogs.com/latex/eqneditor.php
 then write your formula, then right-click on the formula to copy the image-address as shown below
-![](https://latex.codecogs.com/gif.latex?%5Cfrac%7Ba%7D%7Bb%7D)
+|[first equation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Ba%7D%7Bb%7D)
