@@ -88,3 +88,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * etc
 
 * Got it from: [contributors] (https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md)
+
+## Adding Formula
+Go first to the following website
+https://www.codecogs.com/latex/eqneditor.php
+then write your formula, then right-click on the formula to copy the image-address as shown below
+![](https://latex.codecogs.com/gif.latex?%5Cfrac%7Ba%7D%7Bb%7D)
