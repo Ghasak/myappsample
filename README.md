@@ -68,5 +68,5 @@ then write your formula, then right-click on the formula to copy the image-addre
 or you can also try the following website
 [Latex-equation-editor]
 
-http://www.sciweavers.org/free-online-latex-equation-editor
-![](http://www.sciweavers.org/upload/Tex2Img_1557378164/eqn.png)
+http://www.sciweavers.org/free-online-latex-equation-editor. as you can see in the following equation:
+* ![](http://www.sciweavers.org/upload/Tex2Img_1557378164/eqn.png)
