@@ -63,7 +63,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 Go first to the following website
 https://www.codecogs.com/latex/eqneditor.php
 then write your formula, then right-click on the formula to copy the image-address as shown below
-### Deployment
+### Testing Adding Equation
 ![equation](https://latex.codecogs.com/svg.latex?y%3Dx%5E2)
 or you can also try the following website
 [Latex-equation-editor]
