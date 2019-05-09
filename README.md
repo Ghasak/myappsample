@@ -65,3 +65,5 @@ https://www.codecogs.com/latex/eqneditor.php
 then write your formula, then right-click on the formula to copy the image-address as shown below
 ### Deployment
 ![equation](https://latex.codecogs.com/svg.latex?y%3Dx%5E2)
+or you can also try the following website [Latex-equation-editor]http://www.sciweavers.org/free-online-latex-equation-editor
+![equation](http://www.sciweavers.org/upload/Tex2Img_1557378164/eqn.png)
